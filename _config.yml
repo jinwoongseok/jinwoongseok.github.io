@@ -24,8 +24,8 @@ description              : "끊임없이 개발하는 Developer"
 url                      : "https://jinwoongseok.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/codingjw.png"
-logo                     : "/assets/images/GitHub-Mark-32px.png"
+teaser                   : "/assets/images/codingjw2.png"
+logo                     : "/assets/images/codingjw2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/codingjw.png"
+og_image                 : "/assets/images/codingjw2.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "JinwoongSeok"
-  avatar           : "/assets/images/codingjw.png"
+  avatar           : "/assets/images/codingjw2.png"
   bio              : "최고가 되기 위해 노력하는 개발자"
   location         : "South Korea"
   email            :
