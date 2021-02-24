@@ -15,3 +15,6 @@ layout: single
 
 ## [컴퓨터 그래픽스 프로젝트](https://github.com/jinwoongseok/ComputerGraphics_Project)  
 &nbsp;&nbsp;&nbsp;&nbsp;-3D 드론 비행 프로그램 설계
+
+## [딥러닝 프로젝트](https://github.com/jinwoongseok/Trash-recycle-system)  
+&nbsp;&nbsp;&nbsp;&nbsp;-쓰레기 오분류 탐지 시스템 설계
